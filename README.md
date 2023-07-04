@@ -39,6 +39,8 @@
 <h2 id="contacting-us">Contacting us</h2>
 <p>If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using the details below:</p>
 <p><a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;f&#114;&#97;&#110;q&#117;&#105;&#99;&#105;d&#97;d&#64;&#103;&#109;&#97;&#105;&#108;&#46;c&#111;m">&#102;ran&#113;ui&#99;i&#100;&#97;&#100;&#64;&#103;m&#97;&#105;&#108;.&#99;&#111;m</a></p>
-<p>We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.</p>
+<p>We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.</p><p>
+  You can also request for your account on No estas solo app to be deleted in this email address. Even though you can also delete it in the app by the simple click of a botton.
+</p>
 <p>This document was last updated on September 21, 2022</p>
 <p class="madewith"><a href="https://www.websitepolicies.com/?via=madewithbadge" target="_blank" rel="nofollow"><img width="200" height="25" alt="Made with WebsitePolicies" src="https://cdn.websitepolicies.io/img/badge.png" srcset="https://cdn.websitepolicies.io/img/badge_2x.png 2x"></a></p>
